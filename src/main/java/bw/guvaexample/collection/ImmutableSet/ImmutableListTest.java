@@ -36,6 +36,7 @@ public class ImmutableListTest {
 		           .build();
 		 
 		System.out.println("imColorSet:"+imColorSet);       
+		
 	}
 
 }
